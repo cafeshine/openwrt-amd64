@@ -29,4 +29,4 @@ mkdir package/ming
 git clone https://github.com/mslovecc/luci-app-pushbot package/ming/luci-app-pushbot
 git clone https://github.com/mslovecc/openwrt-vlmcsd.git package/ming/openwrt-vlmcsd
 git clone https://github.com/mslovecc/ddns-scripts_aliyun.git package/ming/ddns-scripts_aliyun
-git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/ming/luci-app-unblockneteasemusic
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/luci-app-unblockneteasemusic
